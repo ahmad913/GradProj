@@ -10,3 +10,5 @@ geopandas==0.14.3
 osmnx==1.9.3
 
 ortools==9.8.3296
+
+scipy
